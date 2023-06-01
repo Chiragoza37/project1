@@ -1,0 +1,1 @@
+ALTER TABLE patent_expertpostedresume ADD created_ts TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP;
