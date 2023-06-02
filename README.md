@@ -1,6 +1,7 @@
+# Project 1 
 # Command line interaction project
 
-## libraries used
+## libraries used in project 1 
 1. requests
 2. click
 3. json
